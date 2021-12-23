@@ -1,0 +1,14 @@
+{
+    "website" : {
+      "support": "https://discord.gg/EEKHVGC9P7",
+      "domain": "https://{botname}.{username}.repl.co"
+    },
+    "config": {
+        "http": {
+          "port": 80
+        },
+        "callback": "https://{botname}.{username}.repl.co/callback",
+        "clientID": "760407090367037450",
+        "secret": "REPLIT VARIABLE TO HIDE IT!!"
+    }
+  }
